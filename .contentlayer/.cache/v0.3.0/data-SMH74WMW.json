@@ -1,0 +1,27 @@
+{
+  "cacheItemsMap": {
+    "helloWorld/index.md": {
+      "document": {
+        "title": "Hello World",
+        "date": "2023-01-28T12:00:00.000Z",
+        "body": {
+          "raw": "\nHello World. This is the first test post for CHONGLAND MDX NextJS ContentLayer\n",
+          "html": "<p>Hello World. This is the first test post for CHONGLAND MDX NextJS ContentLayer</p>"
+        },
+        "_id": "helloWorld/index.md",
+        "_raw": {
+          "sourceFilePath": "helloWorld/index.md",
+          "sourceFileName": "index.md",
+          "sourceFileDir": "helloWorld",
+          "contentType": "markdown",
+          "flattenedPath": "helloWorld"
+        },
+        "type": "Post",
+        "slug": "helloWorld"
+      },
+      "documentHash": "1674908173254",
+      "hasWarnings": false,
+      "documentTypeName": "Post"
+    }
+  }
+}
